@@ -1,22 +1,4 @@
-%############################################################################
-% <Lab 7A>
-%
-% Course: ENSC 180 Introduction to Engineering Analysis
-% Instructor: Dr. Herbert H. Tsang
-% Description: <get the number of atom of each element and print out the
-%The molecular weight of the amino acid>
-% Due date: < 2023-03-14>
-% Author: < Faraz Seyfi >
-% Input: < the number of oxygen, carbon, nitrogen, sulfur,
-%and hydrogen atoms present in an amino acid.>
-% Output: <molecular weight of the Amino acid >
-% I pledge that I have completed the programming assignment independently.
 
-%ENSC 180 / © H.H.Tsang
-% I have not copied the code from a student or any source.
-% I have not given my code to any student.
-% Sign here: ___<Faraz Seyfi>_______
-%############################################################################
 clc
 clear
 % Define the atomic weights of the elements
