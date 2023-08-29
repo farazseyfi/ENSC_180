@@ -1,20 +1,4 @@
-%############################################################################
-% <Lab 5>
-%
-% Course: ENSC 180 Introduction to Engineering Analysis
-% Instructor: Dr. Herbert H. Tsang
-% Description: <Give a brief description for homework 1>
-% Due date: < 2023/02/14>
-%
-% Author: < Faraz Seyfi >
-% Input: < the real part and the imaginary part of a complex number.>
-% Output: < the complex number, the maginutude and pahse angle in degrees. >
-% I pledge that I have completed the programming assignment independently.
-% I have not copied the code from a student or any source.
-% I have not given my code to any student.
-%
-% Sign here: ___<Faraz Seyfi>_______
-%############################################################################
+
 clear;
 clc;
 % Ask user for real and imaginary parts of a complex number
