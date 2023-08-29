@@ -1,42 +1,4 @@
-%Use the following as the header of each MATLAB source file. You need to replace the text in "< >” with the appropriate information.
 
-%############################################################################
-
-% <Midterm Exam>
-
-%
-
-% Course: ENSC 180 Introduction to Engineering Analysis
-
-% Instructor: Dr. Herbert H. Tsang
-
-% Description: <A user puts their first name , score1,score2,score3 and I save their name
-% and the average score in text file called testdata.txt. Then based on their scoreaverage, I will
-% give them a comment.>
-
-% Due date: < 2023/02/16>
-
-%
-
-% Author: < Faraz Seyfi >
-
-% Input: < first name, homework1 score, homework2 score, homework3 score.>
-
-% Output: < A line will be appended to the data file (testdata.txt). This line consists of the first name and the average score. 
-% Every time you run the program; a new line will be added to the file with the new data. And
-% Prints a line to the screen that summarizes the calculation.
-% The outputs also consists of a comment based on the person's average
-% score.>
-
-% I pledge that I have completed the programming assignment independently.
-
-% I have not copied the code from a student or any source.% I have not given my code to any student.
-
-%  
-
-%   Sign here: ___<Faraz Seyfi>_______
-
-%############################################################################
 clc;
 clear;
 % Ask the user for their first name 
